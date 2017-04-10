@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/IBM/kubernetes-container-service-wordpress-deployment.svg?branch=master)](https://travis-ci.org/IBM/kubernetes-container-service-wordpress-deployment)
 
 
+[![Create Toolchain](https://console.ng.bluemix.net/devops/graphics/create_toolchain_button.png)](https://console.ng.bluemix.net/devops/setup/deploy/?repository=https://github.com/Tomcli/default-toolchain-1491841559208)
+
+
 # Scalable WordPress deployment on Bluemix Container Service using Kubernetes
 
 This project demonstrates how to deploy WordPress and MySQL on Kubernetes cluster with the capability of IBM Bluemix Container Service. The WordPress uses MySQL as the backend and stores sensitive data into the persistent disks.
